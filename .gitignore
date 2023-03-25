@@ -1,2 +1,8 @@
 
 .minecraft/usercache.json
+.minecraft/options.txt
+.minecraft/.fabric
+
+.minecraft/saves
+.minecraft/logs
+.minecraft/screenshots
